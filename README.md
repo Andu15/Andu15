@@ -1,28 +1,53 @@
 # Hi there 👋! My name`s Andrea 🇵🇪
-<pre>
+```js
 const Andu = {
-    name: Andrea,
-    lastName: Blanco,
+    name: 'Andrea',
+    lastName: 'Blanco',
+    pronouns: 'she' | 'her',
     age: 25,
-    nacionality: Peruvian,
+    nacionality: 'Peruvian',
     hobbies: ['peer programming', 'read about science-fiction', 'reinvent myself', 'study new things'],
     languages: [{lang: 'spanish', level: 'native'}, {lang: 'english', level: 'B1'}, {lang: 'Korean', level: 'beginner'}],
-    design: ['figma'],
-    frontend: ['HTML5', 'CSS3', 'JavaScript Vanilla'],
-    backend: ['firebase', 'node.js'],
-    others: ['CLI', 'ESlint', 'git', 'github', 'Jest']
 }
-</pre>
-***
+```
+
+![Andu15's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andu15&show_icons=true&theme=cobalt)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andu15&layout=compact)](https://github.com/Andu15/github-readme-stats)
+
 ## About me
+
+<image src="https://giphy.com/gifs/coding-programming-hackny-UcK7JalnjCz0k" />
+
 - :smile: I`m ``frontend Developer``
 - 🎓 I`m a laboratory graduate
+- 🪄Mis Skills:  
+
+| Graphic Designing | Frontend Tools | Backend Tools | Software & Tools | Cloud Hosting |
+| ------ | ------ | ------ | ------ | ------ |
+| ![Figma](https://img.shields.io/badge/Figma-ffca28?style=flate&logo=figma&logoColor=black) | ![HTML](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white) | ![Git](https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white) | ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&logo=github&logoColor=white) |
+| ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) | ![CSS](https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flate&logo=firebase&logoColor=black) | ![ESLint](https://img.shields.io/badge/ESLint-4B3263?logo=eslint&logoColor=white) | CH |
+| ![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg) | ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black) | BT | ![Jest](https://img.shields.io/badge/-jest-%23C21325?logo=jest&logoColor=white) | CH |
+| GD | FT | BT | S&T | CH |
+
 - 📫 How to reach me: 
     <section>
     <a href="https://www.linkedin.com/in/andrea-estefania-blanco-avila-b78036156/" target="_blank">
-        <img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/ width='40' height='40'>
+        <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" width='40' height='40' alt='linkedin' />
     </a>
     <a href="https://github.com/Andu15" target="_blank">
-        <img src="https://img.icons8.com/plasticine/100/000000/github.png"/ width='40' height='40'>
+        <img src="https://img.icons8.com/plasticine/100/000000/github.png" width='40' height='40' alt='github profile' />
+    </a>
+    <a href="mailto:estefania_8_3@hotmail.com?Subject=Hi%20Andrea!">
+        <img src="https://img.icons8.com/dusk/64/000000/windows-live-mail.png" width='40' height='40' alt='email'/>
+    </a>
+    <a href="https://app.slack.com/client/T0NNB6T0R/D022URF313L/user_profile/U02310UDQUC">
+        <img src="https://img.icons8.com/color/48/000000/slack-new.png" width='40' height='40' alt='slack'/>
     </a>
     </section>
+    
+- ⚡ Fun fact: I love cat por tha reason I've ten cats 🤣
+
+<p align="center">   
+  Visitors<br>
+  <img src="https://profile-counter.glitch.me/Andu15/count.svg" />  
+</p>  

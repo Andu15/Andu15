@@ -11,13 +11,7 @@ const Andu = {
 }
 ```
 
-![Andu15's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andu15&show_icons=true&theme=cobalt)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andu15&layout=compact)](https://github.com/Andu15/github-readme-stats)
-
-## About me
-
-<image src="https://giphy.com/gifs/coding-programming-hackny-UcK7JalnjCz0k" />
-
+## About me <img src="photoProfile.png" width='40' height='40' alt='photo profile' />
 - :smile: I`m ``frontend Developer``
 - 🎓 I`m a laboratory graduate
 - 🪄Mis Skills:  
@@ -27,7 +21,6 @@ const Andu = {
 | ![Figma](https://img.shields.io/badge/Figma-ffca28?style=flate&logo=figma&logoColor=black) | ![HTML](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white) | ![Git](https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white) | ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&logo=github&logoColor=white) |
 | ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) | ![CSS](https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flate&logo=firebase&logoColor=black) | ![ESLint](https://img.shields.io/badge/ESLint-4B3263?logo=eslint&logoColor=white) | CH |
 | ![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg) | ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black) | BT | ![Jest](https://img.shields.io/badge/-jest-%23C21325?logo=jest&logoColor=white) | CH |
-| GD | FT | BT | S&T | CH |
 
 - 📫 How to reach me: 
     <section>
@@ -45,7 +38,10 @@ const Andu = {
     </a>
     </section>
     
-- ⚡ Fun fact: I love cat por tha reason I've ten cats 🤣
+- ⚡ Fun fact: I love cat por that reason I've ten cats 🤣
+
+![Andu15's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andu15&show_icons=true&theme=cobalt)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andu15&layout=compact)](https://github.com/Andu15/github-readme-stats)
 
 <p align="center">   
   Visitors<br>

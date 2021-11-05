@@ -20,9 +20,11 @@ const Andu = {
 | ------ | ------ | ------ | ------ | ------ |
 | ![Figma](https://img.shields.io/badge/Figma-ffca28?style=flate&logo=figma&logoColor=black) | ![HTML](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white) | ![Git](https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white) | ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&logo=github&logoColor=white) |
 | ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) | ![CSS](https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flate&logo=firebase&logoColor=black) | ![ESLint](https://img.shields.io/badge/ESLint-4B3263?logo=eslint&logoColor=white) | ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?&logo=netlify&logoColor=#00C7B7) |
-| ![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg) | ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black) | BT | ![Jest](https://img.shields.io/badge/-jest-%23C21325?logo=jest&logoColor=white) | ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?&logo=heroku&logoColor=white) |
-| GD | ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?logo=SASS&logoColor=white) | BT | S&T | ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?&logo=firebase) |
-| GD | ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?logo=ant-design&logoColor=white) | BT | S&T | CH |
+| ![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg) | ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black) |  | ![Jest](https://img.shields.io/badge/-jest-%23C21325?logo=jest&logoColor=white) | ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?&logo=heroku&logoColor=white) |
+|  | ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?logo=SASS&logoColor=white) |  |  | ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?&logo=firebase) |
+|  | ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?logo=ant-design&logoColor=white) |  |  |  |
+|  | ![React](https://img.shields.io/badge/react-%2320232a.svg?&logo=react&logoColor=%2361DAFB) |  |  |  |
+<!-- | GD | FT | BT | S&T | CH | -->
 
 - 📫 How to reach me: 
     <section>
